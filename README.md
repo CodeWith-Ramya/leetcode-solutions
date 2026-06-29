@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
