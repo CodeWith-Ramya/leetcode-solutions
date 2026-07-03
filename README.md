@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,9 +62,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
