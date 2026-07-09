@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1995-count-special-quadruplets](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1995-count-special-quadruplets](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
