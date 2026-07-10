@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
