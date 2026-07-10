@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/CodeWith-Ramya/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
